@@ -1,0 +1,2 @@
+# Buckling-and-Vibrational-analysis-of-FG-CNT-composite-plates-using-MATLAB
+Analyzed critical buckling load and natural frequencies of rotating functionally graded carbon nanotube reinforced polymer composite plates (FG CNT-RPC). The dynamic properties of rotating FG CNT-RPC square plates were studied under various rotational speeds, temperatures, CNT distributions, volume fraction and boundary conditions. MATLAB was used to implement the finite element formulation for the analysis.
